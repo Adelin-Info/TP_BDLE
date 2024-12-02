@@ -5,4 +5,4 @@ Ce cours permet de se familiariser avec la méthodologie de traitement de donné
   - l’analyse des données complexes (données multidimensionnelles et graphe).
 
 Le cours s’appuie sur le système Apache Spark qui est largement répandu dans l’industrie ainsi que sur les briques logicielles qui en dépendent (API Dataframe, MLlib, GraphFrames).
-Une ouverture sur les sujets d’actualité (traitement de données en streaming, machine learning à large échelle) compléte le panorama du traitement des données massives.
+Une ouverture sur les sujets d’actualité (traitement de données en streaming, machine learning à large échelle) complétera le panorama du traitement des données massives.
